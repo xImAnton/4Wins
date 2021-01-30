@@ -1,0 +1,10 @@
+name: Tictactoe
+version: ${project.version}
+main: de.ximanton.tictactoe.Main
+api-version: 1.16
+prefix: TICTACTOE
+authors: [xImAnton_]
+website: ximanton.de
+commands:
+  4wins:
+    description: Challenge a player for a new game of TicTacToe
